@@ -1,0 +1,1273 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.logo {
+    position: relative;
+    top: 25px;
+    left: 80px;
+}
+
+.dersler {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 580px;
+    bottom: 5px;
+}
+
+.programlar {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 660px;
+    bottom: 23px;
+}
+
+.web {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 760px;
+    bottom: 43px;
+}
+
+.hakkımızda {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 840px;
+    bottom: 61px;
+}
+
+.blog {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 950px;
+    bottom: 79px;
+}
+
+.cizgi {
+    border-left: 1px solid #444bff;
+    height: 25px;
+    position: relative;
+    left: 1000px;
+    bottom: 100px;
+}
+
+.job {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 1020px;
+    bottom: 121px;
+}
+
+.engilish {
+    color: #444bff;
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 1110px;
+    bottom: 140px;
+}
+
+.giris {
+    left: 1210px;
+    bottom: 170px;
+    position: relative;
+    background-color: #444bff;
+    color: white;
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+}
+
+.tx {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    left: 1224px;
+    bottom: 215px;
+    position: relative;
+}
+
+.gradient {
+    background: linear-gradient(to right, #fff 0%, #ffffcc 100%, #23a6d5);
+    height: 700px;
+    width: 1200px;
+    position: relative;
+    left: 80px;
+    bottom: 180px;
+    border-radius: 30px;
+}
+
+.h {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: black;
+    bottom: 800px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.g {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: black;
+    bottom: 800px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.j {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: black;
+    bottom: 800px;
+    left: 100px;
+    font-size: 30px;
+}
+
+.bank {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: rgb(90, 88, 88);
+    bottom: 800px;
+    left: 100px;
+    font-size: 20px;
+}
+
+.acount {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: rgb(90, 88, 88);
+    bottom: 800px;
+    left: 100px;
+    font-size: 20px;
+}
+
+.rich {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: rgb(90, 88, 88);
+    bottom: 800px;
+    left: 100px;
+    font-size: 20px;
+}
+
+.dogru {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    color: rgb(158, 51, 126);
+    bottom: 800px;
+    left: 100px;
+    font-size: 20px;
+}
+
+.box1 {
+    height: 40px;
+    width: 140px;
+    border-radius: 5px;
+    background-color: #444bff;
+    position: relative;
+    bottom: 750px;
+    left: 99px;
+}
+
+.box2 {
+    height: 40px;
+    width: 110px;
+    border-radius: 5px;
+    background-color: #444bff;
+    position: relative;
+    bottom: 790px;
+    left: 260px;
+}
+
+.boxtext1 {
+    color:white;
+    position: relative;
+    left: 121px;
+    bottom: 835px;
+}
+
+.boxtext2 {
+    color:white;
+    position: relative;
+    left: 281px;
+    bottom: 869px;
+}
+
+.box3 {
+    width: 240px;
+    height: 220px;
+    position: relative;
+    left: 676px;
+    bottom: 1450px;
+    background-color: rgb(226, 178, 46);
+}
+
+.foto1 {
+    position: relative;
+    left: 670px;
+    bottom: 1670px;
+}
+
+.box4 {
+    width: 205px;
+    height: 195px;
+    position: relative;
+    left: 935px;
+    bottom: 1830px;
+    background-color: #444bff;
+}
+
+.foto2 {
+    position: relative;
+    left: 930px;
+    bottom: 2033px;
+}
+
+.box5 {
+    width: 160px;
+    height: 155px;
+    position: relative;
+    left: 716px;
+    bottom: 2035px;
+    background-color: #444bff;
+}
+
+.foto3 {
+    position: relative;
+    left: 715px;
+    bottom: 2200px;
+}
+
+.box6 {
+    width: 203px;
+    height: 185px;
+    position: relative;
+    left: 895px;
+    bottom: 2323px;
+    background-color: rgb(209, 106, 169);
+}
+
+.foto4 {
+    position: relative;
+    left: 895px;
+    bottom: 2525px;
+}
+
+.haber {
+    position: relative;
+    left: 100px;
+    bottom: 2350px;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(231, 179, 83)
+}
+
+.parti {
+    color: rgb(231, 179, 83);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 330px;
+    bottom: 2470px;;
+}
+
+.partitext {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 330px;
+    bottom: 2470px;;
+}
+
+.parti1 {
+    color: rgb(231, 179, 83);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 620px;
+    bottom: 2650px;;
+}
+
+.partitext1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 620px;
+    bottom: 2650px;;
+}
+
+.parti2 {
+    color: rgb(231, 179, 83);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 940px;
+    bottom: 2855px;;
+}
+
+.partitext2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 940px;
+    bottom: 2865px;;
+}
+
+.diger {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 1150px;
+    bottom: 2845px;;
+}
+
+.bootcam {
+   color: rgb(97, 17, 189);
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   position: relative;
+   left: 100px;
+   font-size: 20px;
+   bottom: 2755px;
+}
+
+.metin {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   position: relative;
+   left: 100px;
+   bottom: 2755px;
+}
+
+.box7 {
+    background-color: #444bff;
+    width: 190px;
+    height: 40px;
+    position: relative;
+    left: 1000px;
+    bottom: 2855px;
+    border-radius: 5px;
+ }
+
+ .bas {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 1042px;
+    bottom: 2901px;
+    color: white;
+ }
+
+ .sab {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 1038px;
+    bottom: 2877px;
+    color: #444bff;
+ }
+
+ .acık {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 455px;
+    bottom: 2830px;
+    font-size: 30px
+ }
+
+ .box8 {
+    background-color: rgb(241, 241, 241);
+    position: relative;
+    width: 450px;
+    height: 300px;
+    left: 100px;
+    bottom: 2800px;
+    border-radius: 15px;
+    -moz-box-shadow:5px 5px 15px 3px #666;
+    -webkit-box-shadow: 5px 5px 15px 3px #666;
+    box-shadow: 5px 5px 15px 3px #666;
+ }
+
+ .box9 {
+    background-color: rgb(241, 241, 241);
+    position: relative;
+    width: 450px;
+    height: 300px;
+    left: 600px;
+    bottom: 3099px;
+    border-radius: 15px;
+    -moz-box-shadow:5px 5px 15px 3px #666;
+    -webkit-box-shadow: 5px 5px 15px 3px #666;
+    box-shadow: 5px 5px 15px 3px #666;
+ }
+
+ .foto5 {
+    position: relative;
+    left: 165px;
+    bottom: 3380px;
+ }
+
+ .foto6 {
+    position: relative;
+    left: 665px;
+    bottom: 3563px;
+}
+
+.bb {
+    position: relative;
+    left: 165px;
+    bottom: 3583px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bba {
+    position: relative;
+    left: 665px;
+    bottom: 3610px;
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tarih {
+    position: relative;
+    left: 165px;
+    bottom: 3628px;
+}
+
+.tarihh {
+    position: relative;
+    left: 665px;
+    bottom: 3658px;
+}
+
+.yabancı {
+    position: relative;
+    left: 160px;
+    bottom: 3668px;
+}
+
+.yerli {
+    position: relative;
+    left: 665px;
+    bottom: 3705px;
+}
+
+.sen {
+    position: relative;
+    left: 157px;
+    bottom: 3715px;
+}
+
+.ben {
+    position: relative;
+    left: 659px;
+    bottom: 3751px;
+}
+
+.box10 {
+    position: relative;
+    left: 907px;
+    bottom: 3825px;
+    background-color: rgb(250, 250, 79);
+    border-radius: 5px;
+    width: 120px;
+    height: 50px;
+}
+
+.box11 {
+    position: relative;
+    border-radius: 5px;
+    left: 410px;
+    bottom: 3875px;
+    background-color: rgb(250, 250, 79);
+    width: 120px;
+    height: 50px;
+}
+
+.xt {
+    position: relative;
+    left: 415px;
+    color:white;
+    bottom: 3935px;
+}
+
+.xxt {
+    position: relative;
+    left: 440px;
+    color:white;
+    bottom: 3945px;
+}
+
+.xtx {
+    position: relative;
+    left: 915px;
+    color:white;
+    bottom: 4001px;
+}
+
+.txx {
+    position: relative;
+    left: 935px;
+    color:white;
+    bottom: 4012px;
+}
+
+.box12 {
+    background-color: #f0fcfc;
+    width: 1200px;
+    height: 1000px;
+    position: relative;
+    left: 85px;
+    bottom: 3900px;
+    border-radius: 40px;
+}
+
+.onlıne {
+    position: relative;
+    left: 200px;
+    bottom: 4860px;
+    color: rgb(97, 17, 189);
+    font-size: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-a {
+    position: relative;
+    left: 200px;
+    bottom: 4860px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-b {
+    position: relative;
+    left: 200px;
+    bottom: 4860px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-c {
+    position: relative;
+    left: 200px;
+    bottom: 4860px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-d {
+    position: relative;
+    left: 200px;
+    bottom: 4860px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box13 {
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: #444bff;
+    position: relative;
+    left: 1000px;
+    bottom: 4910px;
+}
+
+.tex-e {
+    position: relative;
+    color: white;
+    left: 1060px;
+    bottom: 4955px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box14 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 150px;
+    width: 250px;
+    height: 150px;
+    bottom: 4860px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box15 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 150px;
+    width: 250px;
+    height: 150px;
+    bottom: 4840px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box16 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 420px;
+    width: 250px;
+    height: 150px;
+    bottom: 5164px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box17 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 420px;
+    width: 250px;
+    height: 150px;
+    bottom: 5144px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box18 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 690px;
+    width: 250px;
+    height: 150px;
+    bottom: 5468px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box19 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 690px;
+    width: 250px;
+    height: 150px;
+    bottom: 5448px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box20 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 960px;
+    width: 250px;
+    height: 150px;
+    bottom: 5772px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.box21 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    left: 960px;
+    width: 250px;
+    height: 150px;
+    bottom: 5752px;
+    border-style: solid;
+    border-width:1px;
+    border-color: #444bff;
+}
+
+.text-f {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6070px;
+    left: 180px;
+    font-size: 10px;
+}
+
+.text-g {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6198px;
+    left: 450px;
+    font-size: 10px;
+}
+
+.text-ğ {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6325px;
+    left: 700px;
+    font-size: 10px;
+}
+
+.text-h {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6453px;
+    left: 980px;
+    font-size: 10px;
+}
+
+.text-i {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6410px;
+    left: 180px;
+    font-size: 10px;
+}
+
+.text-ı {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6540px;
+    left: 450px;
+    font-size: 10px;
+}
+
+.text-j {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6670px;
+    left: 703px;
+    font-size: 10px;
+}
+
+.text-k {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 6800px;
+    left: 973px;
+    font-size: 10px;
+}
+
+.box25 {
+    border-radius: 50px;
+    width: 1200px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    left: 90px;
+    bottom: 6300px;
+    border-radius: 15px;
+    -moz-box-shadow:5px 5px 15px 3px #666;
+    -webkit-box-shadow: 5px 5px 15px 3px #666;
+    box-shadow: 5px 5px 15px 3px #666;
+}
+
+.text-l {
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom: 7000px;
+    left: 380px;
+    font-size: 25px;
+}
+
+.text-m {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7000px;
+    left: 360px;
+}
+
+.text-n {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7000px;
+    left: 400px;
+}
+
+.text-o {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7000px;
+    left: 430px;
+}
+
+.text-ö {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7000px;
+    left: 440px;
+}
+
+.text-p {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7070px;
+    left: 840px;
+}
+
+.text-r {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7070px;
+    left: 870px;
+}
+
+.text-s {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7100px;
+    left: 440px;
+    font-size: 50px;
+    color: #444bff;
+}
+
+.text-ş {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    bottom: 7210px;
+    left: 845px;
+    font-size: 50px;
+    color: #444bff;
+}
+
+.foto8 {
+    position: relative;
+    bottom: 7210px;
+    left: 105px;
+}
+
+.text-t {
+    position: relative;
+    bottom: 7100px;
+    left: 500px;
+    font-size: 40px;
+    color: rgb(248, 135, 154);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-u {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 7100px;
+    left: 360px;
+    font-size: 15px;
+}
+
+.zoom-a {
+    left: 50px;
+    bottom: 7000px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-b {
+    left: 360px;
+    bottom: 7120px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-c {
+    left: 670px;
+    bottom: 7240px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-ç {
+    left: 980px;
+    bottom: 7360px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-d {
+    left: 50px;
+    bottom: 7300px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-e {
+    left: 360px;
+    bottom: 7420px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-f {
+    left: 670px;
+    bottom: 7540px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-g {
+    left: 980px;
+    bottom: 7660px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-ğ {
+    left: 50px;
+    bottom: 7600px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-h {
+    left: 360px;
+    bottom: 7720px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-i {
+    left: 980px;
+    bottom: 7840px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.zoom-ı {
+    left: 670px;
+    bottom: 7960px;
+    width: 280px;
+    height: 115px;
+    position: relative;
+    background-color: #444bff;
+    border-radius: 75px;
+}
+
+.c {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 35px;
+    bottom: 8385px;
+    border-radius: 75px;
+}
+
+.c:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos1 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 35px;
+    bottom: 8345px;
+    border-radius: 75px;
+}
+
+.sos1:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos2 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 35px;
+    bottom: 8305px;
+    border-radius: 75px;
+}
+
+.sos2:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos3 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 348px;
+    bottom: 8750px;
+    border-radius: 75px;
+}
+
+.sos3:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos4 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 348px;
+    bottom: 8710px;
+    border-radius: 75px;
+}
+
+.sos4:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos5 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 348px;
+    bottom: 8670px;
+    border-radius: 75px;
+}
+
+.sos5:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos6 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 658px;
+    bottom: 9115px;
+    border-radius: 75px;
+}
+
+.sos6:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos7 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 655px;
+    bottom: 9073px;
+    border-radius: 75px;
+}
+
+.sos7:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos8 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 653px;
+    bottom: 9039px;
+    border-radius: 75px;
+}
+
+.sos8:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos9 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 968px;
+    bottom: 9155px;
+    border-radius: 75px;
+}
+
+.sos9:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos10 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 968px;
+    bottom: 9438px;
+    border-radius: 75px;
+}
+
+.sos10:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.sos11 {
+    width: 300px;
+    height: 120px;
+    background-color: rgb(237, 241, 169);
+    transition: all .1s ease-in-out;
+    cursor: pointer;
+    position: relative;
+    left: 968px;
+    bottom: 9720px;
+    border-radius: 75px;
+}
+
+.sos11:hover {
+    transform: translate(-5px,-5px);
+    -webkit-transform: translate(-5px,-5px);
+}
+
+.box30 {
+    background-color: #f0fcfc;
+    position: relative;
+    width: 600px;
+    height: 500px;
+    left: 700px;
+    bottom: 9230px;
+    border-radius: 50px;
+}
+
+.box31 {
+    border-radius: 50px;
+    background-color: #f0fcfc;
+    position: relative;
+    width: 600px;
+    height: 500px;
+    left: 50px;
+    bottom: 9730px;
+}
+
+.z1 {
+    display: inline-block;
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 210px;
+    bottom: 10150px;
+    font-size: 20px;
+    color: #444bff;
+}
+
+.z2 {
+    display: inline-block;
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 570px;
+    bottom: 10150px;
+    font-size: 20px;
+    color: #444bff;
+}
+
+.kar1 {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 105px;
+    bottom: 10150px;
+    font-size: 15px;
+}
+
+.kar2 {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 105px;
+    bottom: 10150px;
+    font-size: 15px;
+}
+
+.kar3 {
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 105px;
+    bottom: 10150px;
+    font-size: 15px;
+}
+
+.kil1 {
+    position: relative;
+    left: 105px;
+    bottom: 10150px;
+    width: 480px;
+    height: 50px;
+}
+
+input {
+    width: 480px;
+    height: 50px;
+}
+
+.kil2 {
+    left: 480px;
+    bottom: 10192px;
+    border-radius: 5px;
+    background-color: #444bff;
+    position: relative;
+    width: 100px;
+    height: 40px;
+}
+
+.kil3 {
+    color:white;
+    left: 500px;
+    bottom: 10238px;
+    position: relative;
+}
+
+.vc1 {
+    left: 105px;
+    bottom: 10230px;
+    font-size: 13px;
+    position: relative;
+}
+
+.vc2 {
+    left: 105px;
+    bottom: 10230px;
+    position: relative;
+    font-size: 13px;
+}
+
+.vc3 {
+    font-size: 13px;
+    left: 105px;
+    bottom: 10230px;
+    position: relative;
+}
